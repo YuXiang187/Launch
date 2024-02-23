@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">启动</string>
+    <string name="swap">切换</string>
+    <string name="theme">主题</string>
+    <string name="explain">说明</string>
+    <string name="tab_ys">原神</string>
+    <string name="tab_sr">星穹铁道</string>
+    <string name="theme_system">系统</string>
+    <string name="theme_white">浅色</string>
+    <string name="theme_black">深色</string>
+    <string name="cancel">取消</string>
+    <string name="setting">设置</string>
+    <string name="ok">好</string>
+    <string name="official_server">官方服务器</string>
+    <string name="international_server">国际服务器</string>
+    <string name="no_server">无服务器</string>
+    <string name="explain_text">此软件用于切换原神或崩坏：星穹铁道的服务器，仅支持官方服务器与国际服务器间的切换。</string>
+    <string name="error_permission_text">可能没有获取存储权限。</string>
+    <string name="error_open_setting_text">系统设置打开失败。</string>
+    <string name="error_launch_app_text">应用启动失败。</string>
+    <string name="error_exist_app_text">未安装该应用。</string>
+    <string name="error_official_switch_text">官方→国际服务器切换失败，</string>
+    <string name="error_international_switch_text">国际→官方服务器切换失败，</string>
+    <string name="error_exist_data_text">未找到应用数据文件夹，</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Theme.Launch" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

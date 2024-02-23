@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Launch</string>
+    <string name="swap">Switch</string>
+    <string name="theme">Theme</string>
+    <string name="explain">Manual</string>
+    <string name="tab_ys">Genshin</string>
+    <string name="tab_sr">Star Rail</string>
+    <string name="theme_system">System</string>
+    <string name="theme_white">White</string>
+    <string name="theme_black">Black</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Settings</string>
+    <string name="ok">OK</string>
+    <string name="official_server">Chinese Server</string>
+    <string name="international_server">International Server</string>
+    <string name="no_server">NO Server</string>
+    <string name="explain_text">This software is used to switch servers between Genshin Impact and Honkai: Star Rail only supporting switching between Chinese servers and international servers.</string>
+    <string name="error_permission_text">It is possible that permission to access storage has not been granted.</string>
+    <string name="error_open_setting_text">Failed to open system settings.</string>
+    <string name="error_launch_app_text">Failed to launch app.</string>
+    <string name="error_exist_app_text">The application is not installed.</string>
+    <string name="error_official_switch_text">Failed to CN → OS Server,</string>
+    <string name="error_international_switch_text">Failed to OS → CN Server,</string>
+    <string name="error_exist_data_text">App data folder was not found,</string>
+</resources>
